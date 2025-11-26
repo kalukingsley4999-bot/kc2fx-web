@@ -1,2 +1,2 @@
-# kc2fx-web
-“KC2FX Web Platform”
+# kizitofx-web
+“KIZITOFX Web Platform”
